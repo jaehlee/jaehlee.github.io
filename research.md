@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-permalink: /teaching/
+title: Research
+permalink: /research/
 ---
 
 * Here is a bulleted teaching point!
