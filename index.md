@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img style="float:center;padding:10px;" width="200" src="/image/Profile-photo.jpg">
+<img style="float:center;padding:10px;" width="150" src="/image/Profile-photo.JPG">
 
 I am a postdoctoral researcher in the [Department of Physics & Astronomy](http://www.phas.ubc.ca/) 
 at [University of British Columbia (UBC)](http://www.ubc.ca/). 
