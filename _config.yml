@@ -2,11 +2,8 @@
 title: Jaehoon Lee
 email: eejaehoon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I am a Google Brain Resident in the Google Brain team.
-  Previously, I was trained in theoretical physics working 
-  on high energy theory.
-  Currently, I am interested in aspects of machine learning 
-  with focus on deep neural networks.
+  Physicist learning machine learning.
+  Google brain resident.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://jaehlee.github.io" # the base hostname & protocol for your site
 twitter_username: hoonkp
