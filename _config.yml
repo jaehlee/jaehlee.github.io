@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://jaehlee.github.io" # the base hostname & protocol for your site
 twitter_username: hoonkp
 github_username:  jaehlee
+linkedin_username: eejaehoon
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
