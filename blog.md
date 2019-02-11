@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-* Make blog here
+* [My personal Blog (Korean)](http://hoonkp.egloos.com/)
