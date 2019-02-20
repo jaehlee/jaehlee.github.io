@@ -1,7 +1,7 @@
----
-layout: page
-title: CV
----
+#---
+#layout: page
+#title: CV
+#---
 
 You can download my [CV](https://jaehlee.github.io/cv_Jaehoon_Lee.pdf) here. 
 
