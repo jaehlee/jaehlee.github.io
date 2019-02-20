@@ -51,13 +51,53 @@ International Conference on Learning Representations (ICLR), 2019.
 
 * **Deep Neural Networks as Gaussian Processes**  
 Jaehoon Lee*, Yasaman Bahri*, Roman Novak, Samuel S. Schoenholz, Jeffrey Pennington, Jascha Sohl-Dickstein  
-International Conference on Learning Representations (ICLR), 2018.
+International Conference on Learning Representations (ICLR), 2018.  
 [[arXiv: 1711.00165]](https://arxiv.org/abs/1711.00165) [[code]](https://github.com/brain-research/nngp)
 
-* **3d N=2 minimal SCFTs from Wrapped M5-branes**
-Jin-Beom Bae*, Dongmin Gang*, Jaehoon Lee*
-Journal of High Energy Physics (JHEP), 2017.
+* **3d N=2 minimal SCFTs from Wrapped M5-branes**  
+Jin-Beom Bae*, Dongmin Gang*, Jaehoon Lee*  
+Journal of High Energy Physics (JHEP), 2017.  
 [[arXiv: 1610.09259]](https://arxiv.org/abs/1610.09259)
+
+* **Linking dynamical heterogeneity to static amorphous order**  
+Patrick Charbonneau*, Ethan Dyer*, Jaehoon Lee*, Sho Yaida*  
+Journal of Statistical Mechanics: Theory and Experiment, 2016.  
+[[arXiv: 1309.5085]](https://arxiv.org/abs/1309.5085)
+
+* **Entanglement entropy from one-point functions in holographic states**  
+Matthew J. S. Beach*, Jaehoon Lee*, Charles Rabideau*, Mark Van Raamsdonk*  
+Journal of High Energy Physics (JHEP), 2016.  
+[[arXiv: 1604.05308]](https://arxiv.org/abs/1604.05308)
+
+* **Studies of superconformal field theories using GLSM and conformal bootstrap**
+Jaehoon Lee  
+PhD Thesis, Massachusetts Institute of Technology  
+[[Thesis]](https://dspace.mit.edu/handle/1721.1/99308)
+
+* **Glassy slowdown and replica-symmetry-breaking instantons**  
+Allan Adams*, Tarek Anous*, Jaehoon Lee*, Sho Yaida*  
+Physical Review E (PRE), 2015.  
+[[arXiv: 1406.1498]](https://arxiv.org/abs/1406.1498)
+
+* **Exact Correlators of BPS Operators from the 3d Superconformal Bootstrap**  
+Shai M. Chester*, Jaehoon Lee*, Silviu S. Pufu*, Ran Yacoby*  
+Journal of High Energy Physics (JHEP), 2015.  
+[[arXiv: 1412.0334]](https://arxiv.org/abs/1412.0334)
+
+* **The N=8 Superconformal Bootstrap in Three Dimensions**  
+Shai M. Chester*, Jaehoon Lee*, Silviu S. Pufu*, Ran Yacoby*  
+Journal of High Energy Physics (JHEP), 2014.  
+[[arXiv: 1406.4814]](https://arxiv.org/abs/1406.4814)
+
+* **Algebra of Majorana Doubling**  
+Jaehoon Lee*, Frank Wilczek*  
+Physics Review Letters (PRL), 2013.  
+[[arXiv: 1307.3245]](https://arxiv.org/abs/1307.3245)
+
+* **GLSMs for non-Kahler Geometries**  
+Allan Adams*, Ethan Dyer*, Jaehoon Lee*  
+Journal of High Energy Physics (JHEP), 2013.  
+[[arXiv: 1206.5815]](https://arxiv.org/abs/1206.5815)
 
 ## Research
 
