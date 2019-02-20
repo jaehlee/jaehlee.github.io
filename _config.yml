@@ -1,14 +1,14 @@
 # Site settings
 title: Jaehoon Lee
-email: eejaehoon@gmail.com
+email: eejaehoon at gmail dot com
 description: > # this means to ignore newlines until "baseurl:"
-  Physicist / Machine Learing Researcher.
+  Machine Learing Researcher and Physicist
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://jaehlee.github.io" # the base hostname & protocol for your site
 twitter_username: hoonkp
 github_username:  jaehlee
 linkedin_username: eejaehoon
-permalink: /cv/research/:year/:month/:title.html
+permalink: #/cv/research/:year/:month/:title.html
 gems:
   - jekyll-sitemap
 
