@@ -8,7 +8,7 @@ url: "https://jaehlee.github.io" # the base hostname & protocol for your site
 twitter_username: hoonkp
 github_username:  jaehlee
 linkedin_username: eejaehoon
-permalink: #/cv/research/:year/:month/:title.html
+permalink: /blog/ #/cv/research/:year/:month/:title.html
 gems:
   - jekyll-sitemap
 
