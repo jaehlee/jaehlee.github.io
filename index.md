@@ -1,8 +1,18 @@
 ---
 layout: default
 ---
+## **Jaehoon Lee**
 
-<img style="float:center;padding:10px;" width="150" src="/image/IMG_2635.JPG">
+<img align="right" style="float:center;padding:10px;" width="400" src="/image/IMG_2635.JPG">
+
+Google Brain  
+1600 Amphitheatre Parkway  
+attn: jaehlee  
+Mountain View, CA, 94043  
+
+**E-Mail** eejaehooon at gmail dot com
+
+
 
 I am currently a [AI Resident](https://ai.google/research/join-us/ai-residency) in the [Google Brain Team](https://research.google.com/teams/brain/). 
 
