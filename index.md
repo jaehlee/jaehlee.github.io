@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img style="float:center;padding:10px;" width="150" src="/image/Profile-photo.JPG">
+<img style="float:center;padding:10px;" width="150" src="/image/IMG_2635.JPG">
 
 I am currently a [AI Resident](https://ai.google/research/join-us/ai-residency) in the [Google Brain Team](https://research.google.com/teams/brain/). 
 
