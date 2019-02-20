@@ -7,9 +7,8 @@ Google Brain
 attn: jaehlee  
 Mountain View, CA, 94043  
 
-**E-Mail** eejaehooon at gmail dot com
-
-
+**E-Mail**: eejaehooon at gmail dot com  
+**Curriculum Vitae**: [CV](https://jaehlee.github.io/cv_Jaehoon_Lee.pdf)
 
 I am a [AI Resident](https://ai.google/research/join-us/ai-residency) at [Google Brain Team](https://research.google.com/teams/brain/) interested in understanding deep neural networks. 
 
@@ -17,7 +16,8 @@ Before joining Google in 2017, I mostly worked on theoretical physics.
 I was a postdoctoral researcher in the [Department of Physics & Astronomy](http://www.phas.ubc.ca/) at [University of British Columbia (UBC)](http://www.ubc.ca/) in the String Theory Group. 
 Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http://ctp.lns.mit.edu/) at [MIT](http://web.mit.edu/) working on theoretical physics. 
 
-My research interest is in theoretical physics and machine learning (deep neural networks in particular). Some details of my research is listed [here](/research/).
+My research interest is in theoretical physics and machine learning (deep neural networks in particular).  
+
 
 ## News
 
