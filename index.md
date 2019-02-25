@@ -25,6 +25,8 @@ My research interest is in theoretical physics and machine learning (deep neural
 
 ## News
 
+* Feb 2019: Proposal for [ICML 2019](https://icml.cc/) Workshop on Theoretical Physics for Deep Learning has been accepted! Stay tuned for the details and consider submitting your work to the workshop.
+
 * Feb 2019: Our new paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
 ](https://arxiv.org/abs/1902.06720) is out on ArXiv!  
 
