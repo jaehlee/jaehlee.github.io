@@ -107,7 +107,8 @@ Journal of High Energy Physics (JHEP), 2013.
 * Recent research interests include:
   1. Interplay between physics and machine learning
   2. Theoretical aspects of deep neural networks
-  3. Theoretical Physics with focus on high energy physics
+  3. Scientific and principled study of deep neural networks and their learning algorithms
+  4. Theoretical physics with focus on high energy physics
   
 
 * Services:
