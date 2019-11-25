@@ -14,8 +14,9 @@ Mountain View, CA, 94043
 **E-Mail**: eejaehooon at gmail dot com  
 **Curriculum Vitae**: [CV](https://jaehlee.github.io/cv_Jaehoon_Lee.pdf)
 
-I am a [AI Resident](https://ai.google/research/join-us/ai-residency) at [Google Brain Team](https://research.google.com/teams/brain/) interested in understanding deep neural networks. 
+I am a Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) interested in understanding deep neural networks. 
 
+I am greatful of opportunity to be a part of [AI Residency](https://ai.google/research/join-us/ai-residency) program. 
 Before joining Google in 2017, I mostly worked on theoretical physics. 
 I was a postdoctoral researcher in the [Department of Physics & Astronomy](http://www.phas.ubc.ca/) at [University of British Columbia (UBC)](http://www.ubc.ca/) in the String Theory Group. 
 Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http://ctp.lns.mit.edu/) at [MIT](http://web.mit.edu/) working on theoretical physics. 
@@ -25,26 +26,42 @@ My research interest is in theoretical physics and machine learning (deep neural
 
 ## News
 
-* Feb 2019: Proposal for [ICML 2019](https://icml.cc/) Workshop on Theoretical Physics for Deep Learning has been accepted! Stay tuned for the details and consider submitting your work to the workshop.
+* Dec 2019: Our paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
+](https://arxiv.org/abs/1902.06720) is accepted at **NeurIPS 2019**. We will be presenting on [Thu Dec 12th 10:45 AM -- 12:45 PM @ East Exhibition Hall B + C #175.](https://nips.cc/Conferences/2019/Schedule?showEvent=13916)
+
+* Oct 2019: Our new paper [On Empirical Comparisons of Optimizers for Deep Learning
+](https://arxiv.org/abs/1910.05446) is out on ArXiv!  
+
+* Jul 2019: [Measuring the Effects of Data Parallelism on Neural Network Training
+](http://jmlr.org/papers/volume20/18-789/18-789.pdf) is now published at JMLR!
+
+* Jul 2019: I started a new role as research scientist at Google Research, Brain Team.
+
+* Jul 2019: Thanks everyone who contributed and participated at the [ICML 2019 Workshop on Theoretical Physics for Deep Learning](https://sites.google.com/view/icml2019phys4dl). Talks and slides are now [available](https://sites.google.com/view/icml2019phys4dl/schedule?authuser=0).
+
+* Feb 2019: Proposal for [ICML 2019](https://icml.cc/) Workshop on Theoretical Physics for Deep Learning has been accepted! 
 
 * Feb 2019: Our new paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
 ](https://arxiv.org/abs/1902.06720) is out on ArXiv!  
-
-* Feb 2019: Website is updated!
 
 ## Publication
 
 [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[arXiv]](https://arxiv.org/a/lee_j_7.html)  
 
+* **On Empirical Comparisons of Optimizers for Deep Learning**
+Dami Choi, Christopher J. Shallue, Zachary Nado, **Jaehoon Lee**, Chris J. Maddison, George E. Dahl
+[[arXiv: 1910.05446]](https://arxiv.org/abs/1910.05446)
+
 * **Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent**  
 **Jaehoon Lee**\*, Lechao Xiao\*, Samuel S. Schoenholz, Yasaman Bahri, Jascha Sohl-Dickstein, Jeffrey Pennington  
-[[arXiv: 1902.06720]](https://arxiv.org/abs/1902.06720)
+[[Neural Information Processing Systems (NeurIPS), 2019.]](https://papers.nips.cc/paper/9063-wide-neural-networks-of-any-depth-evolve-as-linear-models-under-gradient-descent)
+[[arXiv: 1902.06720]](https://arxiv.org/abs/1902.06720) [[code1]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/function_space_linearization.ipynb) [[code2]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/weight_space_linearization.ipynb)
 
 
 * **Measuring the Effects of Data Parallelism on Neural Network Training**  
 Christopher J. Shallue\*, **Jaehoon Lee**\*, Joseph Antognini, Jascha Sohl-Dickstein, Roy Frostig, George E. Dahl  
+[[Journal of Machine Learning Research, 2019.]](http://jmlr.org/papers/volume20/18-789/18-789.pdf)
 [[arXiv: 1811.03600]](https://arxiv.org/abs/1811.03600)
-
 
 * **Bayesian Deep Convolutional Networks with Many Channels are Gaussian Processes**  
 Roman Novak\*, Lechao Xiao\*, **Jaehoon Lee**&, Yasaman Bahri&, Greg Yang, Daniel A. Abolafia, Jeffrey Pennington, Jascha Sohl-Dickstein  
