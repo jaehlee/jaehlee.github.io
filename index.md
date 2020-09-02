@@ -13,6 +13,7 @@ attn: jaehlee
 Mountain View, CA, 94043  
 
 **E-Mail**: jaehlee at google dot com
+
 **Curriculum Vitae**: [CV](https://jaehlee.github.io/cv_Jaehoon_Lee.pdf)
 
 I am a Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
@@ -57,16 +58,16 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[arXiv]](https://arxiv.org/a/lee_j_7.html)  
 
-* **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**
-Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek
-[[ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning]](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
+* **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
+Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
+[ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
 
 * **Finite Versus Infinite Neural Networks: an Empirical Study**  
-**Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein
+**Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein  
 [[https://arxiv.org/abs/2007.15801]](https://arxiv.org/abs/2007.15801)
 
 * **On the infinite width limit of neural networks with a standard parameterization**  
-Jascha Sohl-Dickstein, Roman Novak, Samuel S. Schoenholz, **Jaehoon Lee**
+Jascha Sohl-Dickstein, Roman Novak, Samuel S. Schoenholz, **Jaehoon Lee**  
 [[https://arxiv.org/abs/2001.07301]](https://arxiv.org/abs/2001.07301)
 
 * **Neural Tangents: Fast and Easy Infinite Neural Networks in Python**  
