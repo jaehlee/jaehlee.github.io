@@ -7,6 +7,7 @@ title: Main
 <img align="right" style="float:center;padding:10px;" width="250" src="/image/IMG_2635.JPG">
 
 Google Research, Brain Team
+
 1600 Amphitheatre Parkway  
 attn: jaehlee  
 Mountain View, CA, 94043  
@@ -17,7 +18,7 @@ Mountain View, CA, 94043
 I am a Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
 I was in second-year cohort of the [AI Residency](https://ai.google/research/join-us/ai-residency) program. 
 
-Before joining Google in 2017, my main research was focused on theoretical high-energy physics. 
+Before joining Google in 2017, my main research focus was on theoretical high-energy physics. 
 I was a postdoctoral researcher in the [Department of Physics & Astronomy](http://www.phas.ubc.ca/) at [University of British Columbia (UBC)](http://www.ubc.ca/) in the String Theory Group. 
 Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http://ctp.lns.mit.edu/) at [MIT](http://web.mit.edu/) working on theoretical physics. 
 
