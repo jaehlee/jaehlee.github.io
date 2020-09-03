@@ -26,9 +26,9 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
-* Jul 2020: Our new paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf) is accepted at **ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning**.
-
 * Jul 2020: Our new paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) is out on ArXiv!  
+
+* Jul 2020: Our new paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf) is accepted at **ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning**.
 
 * Apr 2020: Our paper [Neural Tangents: Fast and Easy Infinite Neural Networks in Python](https://arxiv.org/abs/1912.02803) is accpeted at **ICLR 2020** as spotlight.
 
@@ -58,22 +58,22 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[arXiv]](https://arxiv.org/a/lee_j_7.html)  
 
+* **Finite Versus Infinite Neural Networks: an Empirical Study**  
+**Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein  
+[[arXiv: 2007.15801]](https://arxiv.org/abs/2007.15801)
+
 * **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
 Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
 [ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
 
-* **Finite Versus Infinite Neural Networks: an Empirical Study**  
-**Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein  
-[[https://arxiv.org/abs/2007.15801]](https://arxiv.org/abs/2007.15801)
-
 * **On the infinite width limit of neural networks with a standard parameterization**  
 Jascha Sohl-Dickstein, Roman Novak, Samuel S. Schoenholz, **Jaehoon Lee**  
-[[https://arxiv.org/abs/2001.07301]](https://arxiv.org/abs/2001.07301)
+[[arXiv: 2001.07301]](https://arxiv.org/abs/2001.07301)
 
 * **Neural Tangents: Fast and Easy Infinite Neural Networks in Python**  
 Roman Novak, Lechao Xiao, Jiri Hron, **Jaehoon Lee**, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
 [International Conference on Learning Representation(ICLR), 2020](https://openreview.net/forum?id=SklD9yrFPS)
-[[https://arxiv.org/abs/1912.02803]](https://arxiv.org/abs/1912.02803) [[code]](https://github.com/google/neural-tangents)
+[[arXiv: 1912.02803]](https://arxiv.org/abs/1912.02803) [[code]](https://github.com/google/neural-tangents)
 
 * **On Empirical Comparisons of Optimizers for Deep Learning**  
 Dami Choi, Christopher J. Shallue, Zachary Nado, **Jaehoon Lee**, Chris J. Maddison, George E. Dahl  
@@ -82,7 +82,7 @@ Dami Choi, Christopher J. Shallue, Zachary Nado, **Jaehoon Lee**, Chris J. Maddi
 * **Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent**  
 **Jaehoon Lee**\*, Lechao Xiao\*, Samuel S. Schoenholz, Yasaman Bahri, Jascha Sohl-Dickstein, Jeffrey Pennington  
 [Neural Information Processing Systems (NeurIPS), 2019.](https://papers.nips.cc/paper/9063-wide-neural-networks-of-any-depth-evolve-as-linear-models-under-gradient-descent)  
-[[arXiv: 1902.06720]](https://arxiv.org/abs/1902.06720) [[code1]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/function_space_linearization.ipynb) [[code2]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/weight_space_linearization.ipynb)
+[[arXiv: 1902.06720]](https://arxiv.org/abs/1902.06720) [[code1]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/function_space_linearization.ipynb) [[code2]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/weight_space_linearization.ipynb) [[Wikipedia(Neural tangent kernel)]](https://en.wikipedia.org/wiki/Neural_tangent_kernel)
 
 * **Measuring the Effects of Data Parallelism on Neural Network Training**  
 Christopher J. Shallue\*, **Jaehoon Lee**\*, Joseph Antognini, Jascha Sohl-Dickstein, Roy Frostig, George E. Dahl  
@@ -98,7 +98,7 @@ International Conference on Learning Representations (ICLR), 2019.
 * **Deep Neural Networks as Gaussian Processes**  
 **Jaehoon Lee**\*, Yasaman Bahri\*, Roman Novak, Samuel S. Schoenholz, Jeffrey Pennington, Jascha Sohl-Dickstein  
 International Conference on Learning Representations (ICLR), 2018.  
-[[arXiv: 1711.00165]](https://arxiv.org/abs/1711.00165) [[code]](https://github.com/brain-research/nngp)
+[[arXiv: 1711.00165]](https://arxiv.org/abs/1711.00165) [[code]](https://github.com/brain-research/nngp) [[Wikipedia(Neural network Gaussian process)]](https://en.wikipedia.org/wiki/Neural_network_Gaussian_process)
 
 * **3d N=2 minimal SCFTs from Wrapped M5-branes**  
 Jin-Beom Bae\*, Dongmin Gang\*, **Jaehoon Lee**\*  
