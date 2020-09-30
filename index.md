@@ -26,6 +26,8 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
+* [New!] Sep 2020: Our paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) is accepted at **NeurIPS 2020** as a **spotlight** presentation (280/9454 ~ 2.96%)!
+
 * Jul 2020: Our new paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) is out on ArXiv!  
 
 * Jul 2020: Our new paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf) is accepted at **ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning**.
@@ -60,7 +62,9 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 * **Finite Versus Infinite Neural Networks: an Empirical Study**  
 **Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein  
-[[arXiv: 2007.15801]](https://arxiv.org/abs/2007.15801)
+[[arXiv: 2007.15801]](https://arxiv.org/abs/2007.15801) 
+Neural Information Processing Systems (NeurIPS), 2020. [**spotlight**] (to appear)
+
 
 * **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
 Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
@@ -72,7 +76,7 @@ Jascha Sohl-Dickstein, Roman Novak, Samuel S. Schoenholz, **Jaehoon Lee**
 
 * **Neural Tangents: Fast and Easy Infinite Neural Networks in Python**  
 Roman Novak, Lechao Xiao, Jiri Hron, **Jaehoon Lee**, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
-[International Conference on Learning Representation(ICLR), 2020](https://openreview.net/forum?id=SklD9yrFPS)
+[International Conference on Learning Representation(ICLR), 2020](https://openreview.net/forum?id=SklD9yrFPS) [**spotlight**]
 [[arXiv: 1912.02803]](https://arxiv.org/abs/1912.02803) [[code]](https://github.com/google/neural-tangents)
 
 * **On Empirical Comparisons of Optimizers for Deep Learning**  
