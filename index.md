@@ -26,23 +26,18 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
+* [New!] Nov 2020: Our new paper [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) is on ArXiv! 
+
+* [New!] Oct 2020: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://arxiv.org/abs/2010.07355) is on ArXiv!  
+
 * [New!] Sep 2020: Our paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) is accepted at **NeurIPS 2020** as a **spotlight** presentation (280/9454 ~ 2.96%)!
 
-* Jul 2020: Our new paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) is out on ArXiv!  
-
-* Jul 2020: Our new paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf) is accepted at **ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning**.
+* Jul 2020: Our new paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://arxiv.org/abs/2010.07355) is accepted at **ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning**.
 
 * Apr 2020: Our paper [Neural Tangents: Fast and Easy Infinite Neural Networks in Python](https://arxiv.org/abs/1912.02803) is accpeted at **ICLR 2020** as spotlight.
 
-* Jan 2020: Our new note [On the infinite width limit of neural networks with a standard parameterization](https://arxiv.org/abs/2001.07301) is out on ArXiv.
-
-* Dec 2019: Our new library [Neural Tangents: Fast and Easy Infinite Neural Networks in Python](https://arxiv.org/abs/1912.02803) is out on ArXiv and on [Github](https://github.com/google/neural-tangents)
-
 * Dec 2019: Our paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
 ](https://arxiv.org/abs/1902.06720) is accepted at **NeurIPS 2019**. We will be presenting on [Thu Dec 12th 10:45 AM -- 12:45 PM @ East Exhibition Hall B + C #175.](https://nips.cc/Conferences/2019/Schedule?showEvent=13916)
-
-* Oct 2019: Our new paper [On Empirical Comparisons of Optimizers for Deep Learning
-](https://arxiv.org/abs/1910.05446) is out on ArXiv!  
 
 * Jul 2019: [Measuring the Effects of Data Parallelism on Neural Network Training
 ](http://jmlr.org/papers/volume20/18-789/18-789.pdf) is now published at JMLR!
@@ -51,14 +46,15 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 * Jul 2019: Thanks everyone who contributed and participated at the [ICML 2019 Workshop on Theoretical Physics for Deep Learning](https://sites.google.com/view/icml2019phys4dl). Talks and slides are now [available](https://sites.google.com/view/icml2019phys4dl/schedule?authuser=0).
 
-* Feb 2019: Proposal for [ICML 2019](https://icml.cc/) Workshop on Theoretical Physics for Deep Learning has been accepted! 
-
-* Feb 2019: Our new paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
-](https://arxiv.org/abs/1902.06720) is out on ArXiv!  
-
 ## Publication
 
 [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[arXiv]](https://arxiv.org/a/lee_j_7.html)  
+
+
+* **Dataset Meta-Learning from Kernel Ridge-Regression**  
+Timothy Nguyen, Zhourung Chen, **Jaehoon Lee**  
+[[arXiv: 2011.00050]](https://arxiv.org/abs/2011.00050) 
+
 
 * **Finite Versus Infinite Neural Networks: an Empirical Study**  
 **Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein  
@@ -67,7 +63,8 @@ Neural Information Processing Systems (NeurIPS), 2020. [**spotlight**] (to appea
 
 
 * **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
-Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
+Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek 
+[[arXiv: 2010:07355]](https://arxiv.org/abs/2010.07355)  
 [ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
 
 * **On the infinite width limit of neural networks with a standard parameterization**  
