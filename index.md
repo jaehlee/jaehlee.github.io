@@ -14,7 +14,10 @@ Mountain View, CA, 94043
 
 **E-Mail**: jaehlee at google dot com
 
+[[LinkedIn]](https://www.linkedin.com/in/eejaehoon), [[Twitter]](https://twitter.com/hoonkp)
+
 **Curriculum Vitae**: [CV](https://jaehlee.github.io/cv_Jaehoon_Lee.pdf)
+
 
 I am a Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
 I was in second-year cohort of the [AI Residency](https://ai.google/research/join-us/ai-residency) program. 
@@ -25,6 +28,8 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 
 ## News
+
+* [New!] Nov 2020: Our new paper [Towards NNGP-guided Neural Architecture Search](https://arxiv.org/abs/2011.06006) is on ArXiv! 
 
 * [New!] Nov 2020: Our new paper [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) is on ArXiv! 
 
@@ -50,6 +55,9 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[arXiv]](https://arxiv.org/a/lee_j_7.html)  
 
+* **Towards NNGP-guided Neural Architecture Search**  
+Daniel S. Park, **Jaehoon Lee**, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
+[[arXiv: 2011.06006]](https://arxiv.org/abs/2011.06006) [[code]](https://github.com/google-research/google-research/tree/master/nngp_nas) 
 
 * **Dataset Meta-Learning from Kernel Ridge-Regression**  
 Timothy Nguyen, Zhourung Chen, **Jaehoon Lee**  
@@ -57,13 +65,13 @@ Timothy Nguyen, Zhourung Chen, **Jaehoon Lee**
 
 
 * **Finite Versus Infinite Neural Networks: an Empirical Study**  
-**Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein  
-[[arXiv: 2007.15801]](https://arxiv.org/abs/2007.15801) 
-Neural Information Processing Systems (NeurIPS), 2020. [**spotlight**] (to appear)
+**Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein   
+Neural Information Processing Systems (NeurIPS), 2020. [**spotlight**] (to appear)  
+[[arXiv: 2007.15801]](https://arxiv.org/abs/2007.15801). 
 
 
 * **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
-Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek 
+Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
 [[arXiv: 2010:07355]](https://arxiv.org/abs/2010.07355)  
 [ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
 
@@ -72,8 +80,8 @@ Jascha Sohl-Dickstein, Roman Novak, Samuel S. Schoenholz, **Jaehoon Lee**
 [[arXiv: 2001.07301]](https://arxiv.org/abs/2001.07301)
 
 * **Neural Tangents: Fast and Easy Infinite Neural Networks in Python**  
-Roman Novak, Lechao Xiao, Jiri Hron, **Jaehoon Lee**, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz
-[International Conference on Learning Representation(ICLR), 2020](https://openreview.net/forum?id=SklD9yrFPS) [**spotlight**]
+Roman Novak, Lechao Xiao, Jiri Hron, **Jaehoon Lee**, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz 
+[International Conference on Learning Representation(ICLR), 2020](https://openreview.net/forum?id=SklD9yrFPS) [**spotlight**]  
 [[arXiv: 1912.02803]](https://arxiv.org/abs/1912.02803) [[code]](https://github.com/google/neural-tangents)
 
 * **On Empirical Comparisons of Optimizers for Deep Learning**  
@@ -156,7 +164,7 @@ Journal of High Energy Physics (JHEP), 2013.
   
 
 * Services:
-  1. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters
+  1. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications
   2. Organizer for [Aspen Winter Conference on Physics for Machine Learning](https://sites.google.com/corp/view/phys4ml/)
   3. Organizer for ICML Workshop on Theoretical Physics for Deep Learning
   4. Organizer for Vancouver deep learning study group
