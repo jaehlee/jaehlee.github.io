@@ -29,13 +29,19 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
+* [New!] Dec 2020: Our paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
+](https://arxiv.org/abs/1902.06720) is featured at [Special Issue of Journal of Statistical Mechanics: Theory and Experiment](https://iopscience.iop.org/issue/1742-5468/2020/12)
+
+
+* [New!] Dec 2020: We presented our paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) at **NeurIPS 2020**. Check out the [virtual conference site for pre-recorded talks.](https://neurips.cc/virtual/2020/protected/poster_ad086f59924fffe0773f8d0ca22ea712.html) [[poster@twitter]](https://twitter.com/hoonkp/status/1336885598720647168)
+
 * [New!] Nov 2020: Our new paper [Towards NNGP-guided Neural Architecture Search](https://arxiv.org/abs/2011.06006) is on ArXiv! 
 
 * [New!] Nov 2020: Our new paper [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) is on ArXiv! 
 
-* [New!] Oct 2020: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://arxiv.org/abs/2010.07355) is on ArXiv!  
+* Oct 2020: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://arxiv.org/abs/2010.07355) is on ArXiv!  
 
-* [New!] Sep 2020: Our paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) is accepted at **NeurIPS 2020** as a **spotlight** presentation (280/9454 ~ 2.96%)!
+* Sep 2020: Our paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) is accepted at **NeurIPS 2020** as a **spotlight** presentation (280/9454 ~ 2.96%)!
 
 * Jul 2020: Our new paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://arxiv.org/abs/2010.07355) is accepted at **ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning**.
 
@@ -49,14 +55,16 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 * Jul 2019: I started a new role as research scientist at Google Research, Brain Team.
 
+<!---
 * Jul 2019: Thanks everyone who contributed and participated at the [ICML 2019 Workshop on Theoretical Physics for Deep Learning](https://sites.google.com/view/icml2019phys4dl). Talks and slides are now [available](https://sites.google.com/view/icml2019phys4dl/schedule?authuser=0).
+--->
 
 ## Publication
 
 [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[arXiv]](https://arxiv.org/a/lee_j_7.html)  
 
 * **Towards NNGP-guided Neural Architecture Search**  
-Daniel S. Park, **Jaehoon Lee**, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
+Daniel S. Park\*, **Jaehoon Lee**\*, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
 [[arXiv: 2011.06006]](https://arxiv.org/abs/2011.06006) [[code]](https://github.com/google-research/google-research/tree/master/nngp_nas) 
 
 * **Dataset Meta-Learning from Kernel Ridge-Regression**  
@@ -66,7 +74,7 @@ Timothy Nguyen, Zhourung Chen, **Jaehoon Lee**
 
 * **Finite Versus Infinite Neural Networks: an Empirical Study**  
 **Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein   
-Neural Information Processing Systems (NeurIPS), 2020. [**spotlight**] (to appear)  
+Neural Information Processing Systems (NeurIPS), 2020. [**spotlight**]    
 [[arXiv: 2007.15801]](https://arxiv.org/abs/2007.15801). 
 
 
@@ -91,7 +99,9 @@ Dami Choi, Christopher J. Shallue, Zachary Nado, **Jaehoon Lee**, Chris J. Maddi
 * **Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent**  
 **Jaehoon Lee**\*, Lechao Xiao\*, Samuel S. Schoenholz, Yasaman Bahri, Jascha Sohl-Dickstein, Jeffrey Pennington  
 [Neural Information Processing Systems (NeurIPS), 2019.](https://papers.nips.cc/paper/9063-wide-neural-networks-of-any-depth-evolve-as-linear-models-under-gradient-descent)  
-[[arXiv: 1902.06720]](https://arxiv.org/abs/1902.06720) [[code1]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/function_space_linearization.ipynb) [[code2]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/weight_space_linearization.ipynb) [[Wikipedia(Neural tangent kernel)]](https://en.wikipedia.org/wiki/Neural_tangent_kernel)
+[Special Isssue, Journal of Statistical Mechanics: Theory and Experiment, 2020.](https://iopscience.iop.org/article/10.1088/1742-5468/abc62b)  
+[[arXiv: 1902.06720]](https://arxiv.org/abs/1902.06720) [[code1]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/function_space_linearization.ipynb) [[code2]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/weight_space_linearization.ipynb) [[Wikipedia(Neural tangent kernel)]](https://en.wikipedia.org/wiki/Neural_tangent_kernel) 
+
 
 * **Measuring the Effects of Data Parallelism on Neural Network Training**  
 Christopher J. Shallue\*, **Jaehoon Lee**\*, Joseph Antognini, Jascha Sohl-Dickstein, Roy Frostig, George E. Dahl  
@@ -164,7 +174,7 @@ Journal of High Energy Physics (JHEP), 2013.
   
 
 * Services:
-  1. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications
+  1. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications / TPAMI
   2. Organizer for [Aspen Winter Conference on Physics for Machine Learning](https://sites.google.com/corp/view/phys4ml/)
   3. Organizer for ICML Workshop on Theoretical Physics for Deep Learning
   4. Organizer for Vancouver deep learning study group
