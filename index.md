@@ -16,7 +16,7 @@ Mountain View, CA, 94043
 
 [[LinkedIn]](https://www.linkedin.com/in/eejaehoon), [[Twitter]](https://twitter.com/hoonkp)
 
-**Curriculum Vitae**: [CV](https://jaehlee.github.io/cv_Jaehoon_Lee.pdf)
+**Curriculum Vitae**: [CV](https://drive.google.com/file/d/1qz_duj-900YzKf8Dkww_LIVC1PLm93LH/view?usp=sharing)
 
 
 I am a Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
