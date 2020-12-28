@@ -4,7 +4,7 @@ title: Main
 ---
 # **Jaehoon Lee**
 
-<img align="right" style="float:center;padding:10px;" width="250" src="/image/IMG_2635.JPG">
+<img align="right" style="float:center;padding:10px;" width="200" src="/image/image.jpeg">
 
 Google Research, Brain Team
 
