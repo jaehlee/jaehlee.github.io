@@ -29,15 +29,21 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
+
+* [New!] Jan 2021: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://openreview.net/forum?id=MjvduJCsE4) is accepted at **ICLR 2021**!
+
+* [New!] Jan 2021: Our paper [Dataset Meta-Learning from Kernel Ridge-Regression](https://openreview.net/forum?id=l-PrrQrK0QR) is accepted at **ICLR 2021**!
+
+
 * [New!] Dec 2020: Our paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
 ](https://arxiv.org/abs/1902.06720) is featured at [Special Issue of Journal of Statistical Mechanics: Theory and Experiment](https://iopscience.iop.org/issue/1742-5468/2020/12)
 
 
 * [New!] Dec 2020: We presented our paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) at **NeurIPS 2020**. Check out the [virtual conference site for pre-recorded talks.](https://neurips.cc/virtual/2020/protected/poster_ad086f59924fffe0773f8d0ca22ea712.html) [[poster@twitter]](https://twitter.com/hoonkp/status/1336885598720647168)
 
-* [New!] Nov 2020: Our new paper [Towards NNGP-guided Neural Architecture Search](https://arxiv.org/abs/2011.06006) is on ArXiv! 
+* Nov 2020: Our new paper [Towards NNGP-guided Neural Architecture Search](https://arxiv.org/abs/2011.06006) is on ArXiv! 
 
-* [New!] Nov 2020: Our new paper [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) is on ArXiv! 
+* Nov 2020: Our new paper [Dataset Meta-Learning from Kernel Ridge-Regression](https://arxiv.org/abs/2011.00050) is on ArXiv! 
 
 * Oct 2020: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://arxiv.org/abs/2010.07355) is on ArXiv!  
 
@@ -67,9 +73,18 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 Daniel S. Park\*, **Jaehoon Lee**\*, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
 [[arXiv: 2011.06006]](https://arxiv.org/abs/2011.06006) [[code]](https://github.com/google-research/google-research/tree/master/nngp_nas) 
 
+
 * **Dataset Meta-Learning from Kernel Ridge-Regression**  
-Timothy Nguyen, Zhourung Chen, **Jaehoon Lee**  
+Timothy Nguyen, Zhourong Chen, **Jaehoon Lee**  
+[International Conference on Learning Representations (ICLR), 2021](https://openreview.net/forum?id=l-PrrQrK0QR) (to appear)      
 [[arXiv: 2011.00050]](https://arxiv.org/abs/2011.00050) 
+
+
+* **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
+Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
+[International Conference on Learning Representations (ICLR), 2021](https://openreview.net/forum?id=MjvduJCsE4) (to appear)      
+[ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
+[[arXiv: 2010:07355]](https://arxiv.org/abs/2010.07355)  
 
 
 * **Finite Versus Infinite Neural Networks: an Empirical Study**  
@@ -77,11 +92,6 @@ Timothy Nguyen, Zhourung Chen, **Jaehoon Lee**
 Neural Information Processing Systems (NeurIPS), 2020. [**spotlight**]    
 [[arXiv: 2007.15801]](https://arxiv.org/abs/2007.15801). 
 
-
-* **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
-Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
-[[arXiv: 2010:07355]](https://arxiv.org/abs/2010.07355)  
-[ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
 
 * **On the infinite width limit of neural networks with a standard parameterization**  
 Jascha Sohl-Dickstein, Roman Novak, Samuel S. Schoenholz, **Jaehoon Lee**  
