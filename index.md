@@ -67,7 +67,7 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## Publication
 
-[[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[arXiv]](https://arxiv.org/a/lee_j_7.html)  
+[[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[Semantic Scholar]](https://www.semanticscholar.org/author/Jaehoon-Lee/49685832) [[arXiv]](https://arxiv.org/a/lee_j_7.html) 
 
 * **Towards NNGP-guided Neural Architecture Search**  
 Daniel S. Park\*, **Jaehoon Lee**\*, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
