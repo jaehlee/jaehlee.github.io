@@ -19,7 +19,7 @@ Mountain View, CA, 94043
 **Curriculum Vitae**: [CV](https://drive.google.com/file/d/1qz_duj-900YzKf8Dkww_LIVC1PLm93LH/view?usp=sharing)
 
 
-I am a Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
+I am a Senior Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
 I was in second-year cohort of the [AI Residency](https://ai.google/research/join-us/ai-residency) program. 
 
 Before joining Google in 2017, my main research focus was on theoretical high-energy physics. 
@@ -29,17 +29,20 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
+* [New!] Sep 2021: Our paper [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) is accepted at **NeurIPS 2021**!
 
-* [New!] Jan 2021: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://openreview.net/forum?id=MjvduJCsE4) is accepted at **ICLR 2021**!
+* Feb 2021: Our new paper [Explaining Neural Scaling Laws](https://arxiv.org/abs/2102.06701) is on ArXiv! 
 
-* [New!] Jan 2021: Our paper [Dataset Meta-Learning from Kernel Ridge-Regression](https://openreview.net/forum?id=l-PrrQrK0QR) is accepted at **ICLR 2021**!
+* Jan 2021: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://openreview.net/forum?id=MjvduJCsE4) is accepted at **ICLR 2021**!
+
+* Jan 2021: Our paper [Dataset Meta-Learning from Kernel Ridge-Regression](https://openreview.net/forum?id=l-PrrQrK0QR) is accepted at **ICLR 2021**!
 
 
-* [New!] Dec 2020: Our paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
+* Dec 2020: Our paper [Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent
 ](https://arxiv.org/abs/1902.06720) is featured at [Special Issue of Journal of Statistical Mechanics: Theory and Experiment](https://iopscience.iop.org/issue/1742-5468/2020/12)
 
 
-* [New!] Dec 2020: We presented our paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) at **NeurIPS 2020**. Check out the [virtual conference site for pre-recorded talks.](https://neurips.cc/virtual/2020/protected/poster_ad086f59924fffe0773f8d0ca22ea712.html) [[poster@twitter]](https://twitter.com/hoonkp/status/1336885598720647168)
+* Dec 2020: We presented our paper [Finite Versus Infinite Neural Networks: an Empirical Study](https://arxiv.org/abs/2007.15801) at **NeurIPS 2020**. Check out the [virtual conference site for pre-recorded talks.](https://neurips.cc/virtual/2020/protected/poster_ad086f59924fffe0773f8d0ca22ea712.html) [[poster@twitter]](https://twitter.com/hoonkp/status/1336885598720647168)
 
 * Nov 2020: Our new paper [Towards NNGP-guided Neural Architecture Search](https://arxiv.org/abs/2011.06006) is on ArXiv! 
 
@@ -69,6 +72,18 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[Semantic Scholar]](https://www.semanticscholar.org/author/Jaehoon-Lee/49685832) [[arXiv]](https://arxiv.org/a/lee_j_7.html) 
 
+
+* **Dataset Distillation with Infinitely Wide Convolutional Networks**  
+Timothy Nguyen, Roman Novak, Lechao Xiao, **Jaehoon Lee**  
+Neural Information Processing Systems (NeurIPS), 2021 (to appear)      
+[[arXiv: 2107.13034]](https://arxiv.org/abs/2107.13034)  [[code / dataset]](https://github.com/google-research/google-research/tree/master/kip)
+
+
+* **Explaining Neural Scaling Laws**  
+Yasaman Bahri\*, Ethan Dyer\*, Jared Kaplan\*, **Jaehoon Lee**\*, Utkarsh Sharma\*   
+[[arXiv: 2102.06701]](https://arxiv.org/abs/2102.06701)
+
+
 * **Towards NNGP-guided Neural Architecture Search**  
 Daniel S. Park\*, **Jaehoon Lee**\*, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
 [[arXiv: 2011.06006]](https://arxiv.org/abs/2011.06006) [[code]](https://github.com/google-research/google-research/tree/master/nngp_nas) 
@@ -76,7 +91,7 @@ Daniel S. Park\*, **Jaehoon Lee**\*, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein
 
 * **Dataset Meta-Learning from Kernel Ridge-Regression**  
 Timothy Nguyen, Zhourong Chen, **Jaehoon Lee**  
-[International Conference on Learning Representations (ICLR), 2021](https://openreview.net/forum?id=l-PrrQrK0QR) (to appear)      
+[International Conference on Learning Representations (ICLR), 2021](https://openreview.net/forum?id=l-PrrQrK0QR)      
 [[arXiv: 2011.00050]](https://arxiv.org/abs/2011.00050) 
 
 
@@ -184,7 +199,8 @@ Journal of High Energy Physics (JHEP), 2013.
   
 
 * Services:
-  1. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications / TPAMI
-  2. Organizer for [Aspen Winter Conference on Physics for Machine Learning](https://sites.google.com/corp/view/phys4ml/)
-  3. Organizer for ICML Workshop on Theoretical Physics for Deep Learning
-  4. Organizer for Vancouver deep learning study group
+  1. Area Chair for NeurIPS
+  2. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications / TPAMI
+  3. Organizer for [Aspen Winter Conference on Physics for Machine Learning](https://sites.google.com/corp/view/phys4ml/)
+  4. Organizer for ICML Workshop on Theoretical Physics for Deep Learning
+  5. Organizer for Vancouver deep learning study group
