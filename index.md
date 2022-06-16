@@ -29,8 +29,11 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
-* [New!] Sep 2021: Our paper [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) is accepted at **NeurIPS 2021**!
+* [NEW!] June 2022: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models]([https://arxiv.org/abs/2107.13034](https://arxiv.org/abs/2206.04615)) is on ArXiv! Benchmark contains 204 tasks, contributed by 444 authors across 132 institutions. It's already used to evluate recent large language models such as [[PALM]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html),[[Gopher]](https://arxiv.org/abs/2112.11446), [[Chinchilla]](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training).
 
+* Sep 2021: Our paper [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) is accepted at **NeurIPS 2021**!
+
+<!---
 * Feb 2021: Our new paper [Explaining Neural Scaling Laws](https://arxiv.org/abs/2102.06701) is on ArXiv! 
 
 * Jan 2021: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://openreview.net/forum?id=MjvduJCsE4) is accepted at **ICLR 2021**!
@@ -64,18 +67,78 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 * Jul 2019: I started a new role as research scientist at Google Research, Brain Team.
 
-<!---
 * Jul 2019: Thanks everyone who contributed and participated at the [ICML 2019 Workshop on Theoretical Physics for Deep Learning](https://sites.google.com/view/icml2019phys4dl). Talks and slides are now [available](https://sites.google.com/view/icml2019phys4dl/schedule?authuser=0).
 --->
 
-## Publication
+## Selected Publication
 
-[[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[Semantic Scholar]](https://www.semanticscholar.org/author/Jaehoon-Lee/49685832) [[arXiv]](https://arxiv.org/a/lee_j_7.html) 
+For full publication list see: [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[Semantic Scholar]](https://www.semanticscholar.org/author/Jaehoon-Lee/49685832) [[arXiv]](https://arxiv.org/a/lee_j_7.html) 
+
+* **Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**  
+BIG-bench collaboration, member of *Core Contributors*  
+[[arXiv: 2206.04615]](https://arxiv.org/abs/2206.04615) [[https://github.com/google/BIG-bench]](https://github.com/google/BIG-bench)
 
 
 * **Dataset Distillation with Infinitely Wide Convolutional Networks**  
 Timothy Nguyen, Roman Novak, Lechao Xiao, **Jaehoon Lee**  
-Neural Information Processing Systems (NeurIPS), 2021 (to appear)      
+Neural Information Processing Systems (NeurIPS), 2021      
+[[arXiv: 2107.13034]](https://arxiv.org/abs/2107.13034)  [[code / dataset]](https://github.com/google-research/google-research/tree/master/kip)
+[[Google AI Blog]](https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html)
+
+
+* **Explaining Neural Scaling Laws**  
+Yasaman Bahri\*, Ethan Dyer\*, Jared Kaplan\*, **Jaehoon Lee**\*, Utkarsh Sharma\*   
+[[arXiv: 2102.06701]](https://arxiv.org/abs/2102.06701)
+
+
+* **Towards NNGP-guided Neural Architecture Search**  
+Daniel S. Park\*, **Jaehoon Lee**\*, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
+[[arXiv: 2011.06006]](https://arxiv.org/abs/2011.06006) [[code]](https://github.com/google-research/google-research/tree/master/nngp_nas) [[US Patent App. 17/377,142]]
+
+
+* **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
+Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
+[International Conference on Learning Representations (ICLR), 2021](https://openreview.net/forum?id=MjvduJCsE4) [[code / dataset]](https://github.com/google-research/google-research/tree/master/infinite_uncertainty)      
+[ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
+[[arXiv: 2010:07355]](https://arxiv.org/abs/2010.07355)  
+
+
+* **Finite Versus Infinite Neural Networks: an Empirical Study**  
+**Jaehoon Lee**, Samuel S. Schoenholz, Jeffrey Pennington, Ben Adlam, Lechao Xiao, Roman Novak, Jascha Sohl-Dickstein   
+Neural Information Processing Systems (NeurIPS), 2020. [**spotlight**]    
+[[arXiv: 2007.15801]](https://arxiv.org/abs/2007.15801). 
+
+
+* **Neural Tangents: Fast and Easy Infinite Neural Networks in Python**  
+Roman Novak, Lechao Xiao, Jiri Hron, **Jaehoon Lee**, Alexander A. Alemi, Jascha Sohl-Dickstein, Samuel S. Schoenholz 
+[International Conference on Learning Representation(ICLR), 2020](https://openreview.net/forum?id=SklD9yrFPS) [**spotlight**]  
+[[arXiv: 1912.02803]](https://arxiv.org/abs/1912.02803) [[code]](https://github.com/google/neural-tangents)
+
+
+* **Wide Neural Networks of Any Depth Evolve as Linear Models Under Gradient Descent**  
+**Jaehoon Lee**\*, Lechao Xiao\*, Samuel S. Schoenholz, Yasaman Bahri, Jascha Sohl-Dickstein, Jeffrey Pennington  
+[Neural Information Processing Systems (NeurIPS), 2019.](https://papers.nips.cc/paper/9063-wide-neural-networks-of-any-depth-evolve-as-linear-models-under-gradient-descent)  
+[Special Isssue, Journal of Statistical Mechanics: Theory and Experiment, 2020.](https://iopscience.iop.org/article/10.1088/1742-5468/abc62b)  
+[[arXiv: 1902.06720]](https://arxiv.org/abs/1902.06720) [[code1]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/function_space_linearization.ipynb) [[code2]](https://colab.research.google.com/github/google/neural-tangents/blob/master/notebooks/weight_space_linearization.ipynb) [[Wikipedia(Neural tangent kernel)]](https://en.wikipedia.org/wiki/Neural_tangent_kernel) 
+
+
+* **Measuring the Effects of Data Parallelism on Neural Network Training**  
+Christopher J. Shallue\*, **Jaehoon Lee**\*, Joseph Antognini, Jascha Sohl-Dickstein, Roy Frostig, George E. Dahl  
+[Journal of Machine Learning Research, 2019.](http://jmlr.org/papers/volume20/18-789/18-789.pdf)  
+[[arXiv: 1811.03600]](https://arxiv.org/abs/1811.03600)
+
+
+* **Deep Neural Networks as Gaussian Processes**  
+**Jaehoon Lee**\*, Yasaman Bahri\*, Roman Novak, Samuel S. Schoenholz, Jeffrey Pennington, Jascha Sohl-Dickstein  
+International Conference on Learning Representations (ICLR), 2018.  
+[[arXiv: 1711.00165]](https://arxiv.org/abs/1711.00165) [[code]](https://github.com/brain-research/nngp) [[Wikipedia(Neural network Gaussian process)]](https://en.wikipedia.org/wiki/Neural_network_Gaussian_process)
+
+
+<!---
+
+* **Dataset Distillation with Infinitely Wide Convolutional Networks**  
+Timothy Nguyen, Roman Novak, Lechao Xiao, **Jaehoon Lee**  
+Neural Information Processing Systems (NeurIPS), 2021      
 [[arXiv: 2107.13034]](https://arxiv.org/abs/2107.13034)  [[code / dataset]](https://github.com/google-research/google-research/tree/master/kip)
 
 
@@ -188,6 +251,8 @@ Physics Review Letters (PRL), 2013.
 Allan Adams\*, Ethan Dyer\*, **Jaehoon Lee**\*  
 Journal of High Energy Physics (JHEP), 2013.  
 [[arXiv: 1206.5815]](https://arxiv.org/abs/1206.5815)
+--->
+
 
 ## Research
 
@@ -199,8 +264,9 @@ Journal of High Energy Physics (JHEP), 2013.
   
 
 * Services:
-  1. Area Chair for NeurIPS
-  2. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications / TPAMI
-  3. Organizer for [Aspen Winter Conference on Physics for Machine Learning](https://sites.google.com/corp/view/phys4ml/)
-  4. Organizer for ICML Workshop on Theoretical Physics for Deep Learning
-  5. Organizer for Vancouver deep learning study group
+  1. Action Editor for TMLR
+  2. Area Chair for NeurIPS
+  3. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications / TPAMI
+  4. Organizer for [Aspen Winter Conference on Physics for Machine Learning](https://sites.google.com/corp/view/phys4ml/)
+  5. Organizer for ICML Workshop on Theoretical Physics for Deep Learning
+  6. Organizer for Vancouver deep learning study group
