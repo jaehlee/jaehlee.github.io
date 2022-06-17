@@ -29,7 +29,7 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
-* [NEW!] June 2022: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models]([https://arxiv.org/abs/2107.13034](https://arxiv.org/abs/2206.04615)) is on ArXiv! Benchmark contains 204 tasksa and was contributed by 444 authors across 132 institutions. It has been already used to evluate recent large language models such as [[PALM]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html),[[Gopher]](https://arxiv.org/abs/2112.11446), and [[Chinchilla]](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training).
+* [NEW!] June 2022: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615) is on ArXiv! Benchmark contains 204 tasksa and was contributed by 444 authors across 132 institutions. It has been already used to evluate recent large language models such as [[PALM]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html),[[Gopher]](https://arxiv.org/abs/2112.11446), and [[Chinchilla]](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training).
 
 * Sep 2021: Our paper [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) is accepted at **NeurIPS 2021**!
 
