@@ -8,10 +8,14 @@ title: Main
 
 Google Research, Brain Team
 
+San Francisco Bay Area
+<!---
+
 1600 Amphitheatre Parkway  
 attn: jaehlee  
 Mountain View, CA, 94043  
 
+--->
 **E-Mail**: jaehlee at google dot com
 
 [[LinkedIn]](https://www.linkedin.com/in/eejaehoon), [[Twitter]](https://twitter.com/hoonkp)
@@ -29,11 +33,15 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
+* [NEW!] Dec 2022: Our paper [Fast Neural Kernel Embeddings for General Activations](https://arxiv.org/abs/2209.04121) is accepted at **NeurIPS 2022**! 
+
 * [NEW!] June 2022: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615) is on ArXiv! Benchmark contains 204 tasksa and was contributed by 444 authors across 132 institutions. It has been already used to evluate recent large language models such as [[PALM]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html),[[Gopher]](https://arxiv.org/abs/2112.11446), and [[Chinchilla]](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training).
+
+
+<!---
 
 * Sep 2021: Our paper [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) is accepted at **NeurIPS 2021**!
 
-<!---
 * Feb 2021: Our new paper [Explaining Neural Scaling Laws](https://arxiv.org/abs/2102.06701) is on ArXiv! 
 
 * Jan 2021: Our paper [Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit](https://openreview.net/forum?id=MjvduJCsE4) is accepted at **ICLR 2021**!
@@ -135,6 +143,12 @@ International Conference on Learning Representations (ICLR), 2018.
 
 
 <!---
+
+* **Fast Neural Kernel Embeddings for General Activations**   
+Insu Han, Amir Zandieh, **Jaehoon Lee**, Roman Novak, Lechao Xiao, Amin Karbasi. 
+Neural Information Processing Systems (NeurIPS), 2022      
+[arXiv: 2209.04121](https://arxiv.org/abs/2209.04121)  [[code / dataset]](https://github.com/insuhan/ntk_activations)
+
 
 * **Dataset Distillation with Infinitely Wide Convolutional Networks**  
 Timothy Nguyen, Roman Novak, Lechao Xiao, **Jaehoon Lee**  
@@ -260,13 +274,14 @@ Journal of High Energy Physics (JHEP), 2013.
   1. Interplay between physics and machine learning
   2. Theoretical aspects of deep neural networks
   3. Scientific and principled study of deep neural networks and their learning algorithms
-  4. Theoretical physics with focus on high energy physics
+  4. Principled study of large scale neural networks (e.g. Neural scaling laws, inifinite-width limit)
+  5. Theoretical physics with focus on high energy physics
   
 
 * Services:
   1. Action Editor for TMLR
-  2. Area Chair for NeurIPS
-  3. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications / TPAMI
+  2. Area Chair for NeurIPS, ICLR, ICML
+  3. Reviewer for ICLR / ICML / NeurIPS / JMLR / Neural Computation / Pattern Recognition Letters / Nature Communications / TPAMI / AISTATS
   4. Organizer for [Aspen Winter Conference on Physics for Machine Learning](https://sites.google.com/corp/view/phys4ml/)
   5. Organizer for ICML Workshop on Theoretical Physics for Deep Learning
   6. Organizer for Vancouver deep learning study group
