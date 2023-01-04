@@ -8,7 +8,8 @@ title: Main
 
 Google Research, Brain Team
 
-San Francisco Bay Area
+San Francisco Bay Area   
+
 <!---
 
 1600 Amphitheatre Parkway  
@@ -16,6 +17,8 @@ attn: jaehlee
 Mountain View, CA, 94043  
 
 --->
+
+
 **E-Mail**: jaehlee at google dot com
 
 [[LinkedIn]](https://www.linkedin.com/in/eejaehoon), [[Twitter]](https://twitter.com/hoonkp)
