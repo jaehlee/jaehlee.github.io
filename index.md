@@ -6,7 +6,7 @@ title: Main
 
 <img align="right" style="float:center;padding:10px;" width="200" src="/image/image.jpeg">
 
-Google Research, Brain Team
+Google DeepMind, Brain Team
 
 San Francisco Bay Area   
 
@@ -26,7 +26,7 @@ Mountain View, CA, 94043
 **Curriculum Vitae**: [CV](https://drive.google.com/file/d/1qz_duj-900YzKf8Dkww_LIVC1PLm93LH/view?usp=sharing)
 
 
-I am a Senior Research Scientist at [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
+I am a Senior Research Scientist at [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind) and was part of [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
 I was in second-year cohort of the [AI Residency](https://ai.google/research/join-us/ai-residency) program. 
 
 Before joining Google in 2017, my main research focus was on theoretical high-energy physics. 
@@ -36,12 +36,16 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
+* [NEW!] May 2023: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://openreview.net/forum?id=uyTL5Bvosj) is now published in TMLR! 
+
+* [NEW!] May 2023: Now I'm part of [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)! Excited to join forces with DeepMind colleagues. 
+
 * [NEW!] Dec 2022: Our paper [Fast Neural Kernel Embeddings for General Activations](https://arxiv.org/abs/2209.04121) is accepted at **NeurIPS 2022**! 
 
-* [NEW!] June 2022: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615) is on ArXiv! Benchmark contains 204 tasksa and was contributed by 444 authors across 132 institutions. It has been already used to evluate recent large language models such as [[PALM]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html),[[Gopher]](https://arxiv.org/abs/2112.11446), and [[Chinchilla]](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training).
 
 
 <!---
+* [NEW!] June 2022: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615) is on ArXiv! Benchmark contains 204 tasksa and was contributed by 444 authors across 132 institutions. It has been already used to evluate recent large language models such as [[PALM]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html),[[Gopher]](https://arxiv.org/abs/2112.11446), and [[Chinchilla]](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training).
 
 * Sep 2021: Our paper [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) is accepted at **NeurIPS 2021**!
 
@@ -87,7 +91,8 @@ For full publication list see: [[Google Scholar]](https://scholar.google.com/cit
 
 * **Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**  
 BIG-bench collaboration, member of *Core Contributors*  
-[[arXiv: 2206.04615]](https://arxiv.org/abs/2206.04615) [[https://github.com/google/BIG-bench]](https://github.com/google/BIG-bench)
+[[Transactions on Machine Learning Research (TMLR), 2023]](https://openreview.net/forum?id=uyTL5Bvosj) [[https://github.com/google/BIG-bench]](https://github.com/google/BIG-bench)
+[[arXiv: 2206.04615]](https://arxiv.org/abs/2206.04615) 
 
 
 * **Dataset Distillation with Infinitely Wide Convolutional Networks**  
