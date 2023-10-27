@@ -26,7 +26,7 @@ Mountain View, CA, 94043
 **Curriculum Vitae**: [CV](https://drive.google.com/file/d/1qz_duj-900YzKf8Dkww_LIVC1PLm93LH/view?usp=sharing)
 
 
-I am a Senior Research Scientist at [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind) and was part of [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
+I am a Staff Research Scientist at [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind) and was part of [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
 I was in second-year cohort of the [AI Residency](https://ai.google/research/join-us/ai-residency) program. 
 
 Before joining Google in 2017, my main research focus was on theoretical high-energy physics. 
@@ -36,15 +36,19 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
-* [NEW!] May 2023: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://openreview.net/forum?id=uyTL5Bvosj) is now published in TMLR! 
+* [NEW!] Sep 2023: Our new paper [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/abs/2309.14322) is on ArXiv! 
 
-* [NEW!] May 2023: Now I'm part of [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)! Excited to join forces with DeepMind colleagues. 
+* [NEW!] Sep 2023: Our new paper [Replacing softmax with relu in vision transformers](https://arxiv.org/abs/2309.08586) is on ArXiv!
+  
+* May 2023: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://openreview.net/forum?id=uyTL5Bvosj) is now published in TMLR! 
 
-* [NEW!] Dec 2022: Our paper [Fast Neural Kernel Embeddings for General Activations](https://arxiv.org/abs/2209.04121) is accepted at **NeurIPS 2022**! 
-
+* May 2023: Now I'm part of [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)! Excited to join forces with our DeepMind colleagues. 
 
 
 <!---
+* [NEW!] Dec 2022: Our paper [Fast Neural Kernel Embeddings for General Activations](https://arxiv.org/abs/2209.04121) is accepted at **NeurIPS 2022**! 
+
+
 * [NEW!] June 2022: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://arxiv.org/abs/2206.04615) is on ArXiv! Benchmark contains 204 tasksa and was contributed by 444 authors across 132 institutions. It has been already used to evluate recent large language models such as [[PALM]](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html),[[Gopher]](https://arxiv.org/abs/2112.11446), and [[Chinchilla]](https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training).
 
 * Sep 2021: Our paper [Dataset Distillation with Infinitely Wide Convolutional Networks](https://arxiv.org/abs/2107.13034) is accepted at **NeurIPS 2021**!
@@ -88,6 +92,12 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 ## Selected Publication
 
 For full publication list see: [[Google Scholar]](https://scholar.google.com/citations?user=d3YhiooAAAAJ&hl=en) [[Semantic Scholar]](https://www.semanticscholar.org/author/Jaehoon-Lee/49685832) [[arXiv]](https://arxiv.org/a/lee_j_7.html) 
+
+
+* **Small-scale proxies for large-scale Transformer training instabilities**  
+Mitchell Wortsman et al., **Jaehoon Lee**\*, Justin Gilmer\*, Simon Kornblith\*  
+[[arXiv: 2309.14322]](https://arxiv.org/abs/2309.14322)
+
 
 * **Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**  
 BIG-bench collaboration, member of *Core Contributors*  
@@ -279,11 +289,12 @@ Journal of High Energy Physics (JHEP), 2013.
 ## Research
 
 * Recent research interests include:
-  1. Interplay between physics and machine learning
-  2. Theoretical aspects of deep neural networks
-  3. Scientific and principled study of deep neural networks and their learning algorithms
-  4. Principled study of large scale neural networks (e.g. Neural scaling laws, inifinite-width limit)
-  5. Theoretical physics with focus on high energy physics
+  1. Theoretical aspects of deep neural networks
+  2. Scientific and principled study of deep neural networks and their learning algorithms
+  3. Principled study of large scale neural networks (e.g. Neural scaling laws, inifinite-width limit)
+  4. Theoretical physics with focus on high energy physics
+  5. Interplay between physics and machine learning
+
   
 
 * Services:
