@@ -36,9 +36,17 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
-* [NEW!] Sep 2023: Our new paper [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/abs/2309.14322) is on ArXiv! 
 
-* [NEW!] Sep 2023: Our new paper [Replacing softmax with relu in vision transformers](https://arxiv.org/abs/2309.08586) is on ArXiv!
+* [NEW!] Jan 2024: Our paper [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/abs/2309.14322) is accepted at **ICLR 2024** as an **oral** (1.2% of submitted papers)! See you at Vienna, Austria!
+
+* [NEW!] Dec 2023: Our new paper [Beyond human data: Scaling self-training for problem-solving with language models ](https://arxiv.org/abs/2312.06585) is on ArXiv!
+    
+* [NEW!] Nov 2023: Our new paper [Frontier Language Models are not Robust to Adversarial Arithmetic, or" What do I need to say so you agree 2 + 2= 5?](https://arxiv.org/abs/2311.07587) is on ArXiv!
+
+  
+* Sep 2023: Our new paper [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/abs/2309.14322) is on ArXiv! 
+
+* Sep 2023: Our new paper [Replacing softmax with relu in vision transformers](https://arxiv.org/abs/2309.08586) is on ArXiv!
   
 * May 2023: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://openreview.net/forum?id=uyTL5Bvosj) is now published in TMLR! 
 
