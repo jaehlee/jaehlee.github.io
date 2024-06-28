@@ -6,54 +6,55 @@ title: Main
 
 <img align="right" style="float:center;padding:10px;" width="200" src="/image/image.jpeg">
 
-Google DeepMind, Brain Team
+Member of Technical Staff @ Anthropic
 
 San Francisco Bay Area   
 
-<!---
-
-1600 Amphitheatre Parkway  
-attn: jaehlee  
-Mountain View, CA, 94043  
-
---->
 
 
-**E-Mail**: jaehlee at google dot com
+**E-Mail**: eejaeohoon at gmail dot com
 
 [[LinkedIn]](https://www.linkedin.com/in/eejaehoon), [[Twitter]](https://twitter.com/hoonkp)
 
 **Curriculum Vitae**: [CV](https://drive.google.com/file/d/1qz_duj-900YzKf8Dkww_LIVC1PLm93LH/view?usp=sharing)
 
+I am a Member of Technical Staff at [Antrhopic](https://www.anthropic.com) working on research in machine learing and artifical intelligence. I have a background in theoretical high-energy physics. 
 
-I am a Staff Research Scientist at [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind) and was part of [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
-I was in second-year cohort of the [AI Residency](https://ai.google/research/join-us/ai-residency) program. 
+Previously, I spent amazing 7 years at Google doing research in machine learing. I was a Staff Research Scientist at [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind) working on Path to AGI team and Gemini team working on science of pretraining. I spent most of my Google years as part  of [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
+I was in second-year cohort of the [Brain / AI Residency](https://ai.google/research/join-us/ai-residency) program (2017). 
 
-Before joining Google in 2017, my main research focus was on theoretical high-energy physics. 
+Before joining Google, my main research focus was on theoretical high-energy physics. 
 I was a postdoctoral researcher in the [Department of Physics & Astronomy](http://www.phas.ubc.ca/) at [University of British Columbia (UBC)](http://www.ubc.ca/) in the String Theory Group. 
-Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http://ctp.lns.mit.edu/) at [MIT](http://web.mit.edu/) working on theoretical physics. 
+Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http://ctp.lns.mit.edu/) at [MIT](http://web.mit.edu/) working on theoretical physics. I stuided Physics and Mathematical Sciences at [Seoul National University](https://www.snu.ac.kr/).
 
 
 ## News
 
+* [NEW!] June 2024: I joined [Antrhopic](https://www.anthropic.com)!
 
+* [NEW!] June 2024: Our paper [Explaining Neural Scaling Laws](https://www.pnas.org/doi/10.1073/pnas.2311878121) is (finally) published in PNAS! 
+
+  
+* [NEW!] May 2024: Our paper [Scaling Exponents Across Parameterizations and Optimizers](https://openreview.net/forum?id=0ksNeD1SJT) is accepted at **ICML 2024**!
+  
 * [NEW!] Jan 2024: Our paper [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/abs/2309.14322) is accepted at **ICLR 2024** as an **oral** (1.2% of submitted papers)! See you at Vienna, Austria!
 
-* [NEW!] Dec 2023: Our new paper [Beyond human data: Scaling self-training for problem-solving with language models ](https://arxiv.org/abs/2312.06585) is on ArXiv!
+* Dec 2023: Our new paper [Beyond human data: Scaling self-training for problem-solving with language models ](https://arxiv.org/abs/2312.06585) is on ArXiv!
     
-* [NEW!] Nov 2023: Our new paper [Frontier Language Models are not Robust to Adversarial Arithmetic, or" What do I need to say so you agree 2 + 2= 5?](https://arxiv.org/abs/2311.07587) is on ArXiv!
+* Nov 2023: Our new paper [Frontier Language Models are not Robust to Adversarial Arithmetic, or" What do I need to say so you agree 2 + 2= 5?](https://arxiv.org/abs/2311.07587) is on ArXiv!
 
   
 * Sep 2023: Our new paper [Small-scale proxies for large-scale Transformer training instabilities](https://arxiv.org/abs/2309.14322) is on ArXiv! 
 
 * Sep 2023: Our new paper [Replacing softmax with relu in vision transformers](https://arxiv.org/abs/2309.08586) is on ArXiv!
-  
+
+<!---
 * May 2023: Our paper [Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models](https://openreview.net/forum?id=uyTL5Bvosj) is now published in TMLR! 
 
 * May 2023: Now I'm part of [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind)! Excited to join forces with our DeepMind colleagues. 
 
 
-<!---
+
 * [NEW!] Dec 2022: Our paper [Fast Neural Kernel Embeddings for General Activations](https://arxiv.org/abs/2209.04121) is accepted at **NeurIPS 2022**! 
 
 
@@ -103,8 +104,19 @@ For full publication list see: [[Google Scholar]](https://scholar.google.com/cit
 
 
 * **Small-scale proxies for large-scale Transformer training instabilities**  
-Mitchell Wortsman et al., **Jaehoon Lee**\*, Justin Gilmer\*, Simon Kornblith\*  
+Mitchell Wortsman et al., **Jaehoon Lee**\*, Justin Gilmer\*, Simon Kornblith\*
+[International Conference on Learning Representations (ICLR), 2024.](https://openreview.net/forum?id=d8w0pmvXbZ) 
 [[arXiv: 2309.14322]](https://arxiv.org/abs/2309.14322)
+
+
+* **Training LLMs over Neurally Compressed Text**  
+Brian Lester, **Jaehoon Lee** Alex Alemi, Jeffrey Pennington, Adam Roberts, Jascha Sohl-Dickstein, Noah Constant
+[[arXiv: 2404.03626]](https://arxiv.org/abs/2404.03626)
+
+
+* **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**  
+Gemini Team, Google
+[[arXiv: 2403.05530]](https://arxiv.org/abs/2403.05530)
 
 
 * **Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models**  
@@ -121,20 +133,9 @@ Neural Information Processing Systems (NeurIPS), 2021
 
 
 * **Explaining Neural Scaling Laws**  
-Yasaman Bahri\*, Ethan Dyer\*, Jared Kaplan\*, **Jaehoon Lee**\*, Utkarsh Sharma\*   
+Yasaman Bahri\*, Ethan Dyer\*, Jared Kaplan\*, **Jaehoon Lee**\*, Utkarsh Sharma\*
+[[Proceedings of the National Academy of Sciences (PNAS), 2024]](https://www.pnas.org/doi/10.1073/pnas.2311878121) 
 [[arXiv: 2102.06701]](https://arxiv.org/abs/2102.06701)
-
-
-* **Towards NNGP-guided Neural Architecture Search**  
-Daniel S. Park\*, **Jaehoon Lee**\*, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
-[[arXiv: 2011.06006]](https://arxiv.org/abs/2011.06006) [[code]](https://github.com/google-research/google-research/tree/master/nngp_nas) [[US Patent App. 17/377,142]]
-
-
-* **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
-Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
-[International Conference on Learning Representations (ICLR), 2021](https://openreview.net/forum?id=MjvduJCsE4) [[code / dataset]](https://github.com/google-research/google-research/tree/master/infinite_uncertainty)      
-[ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
-[[arXiv: 2010:07355]](https://arxiv.org/abs/2010.07355)  
 
 
 * **Finite Versus Infinite Neural Networks: an Empirical Study**  
@@ -169,6 +170,18 @@ International Conference on Learning Representations (ICLR), 2018.
 
 
 <!---
+
+* **Towards NNGP-guided Neural Architecture Search**  
+Daniel S. Park\*, **Jaehoon Lee**\*, Daiyi Peng, Yuan Cao, Jascha Sohl-Dickstein   
+[[arXiv: 2011.06006]](https://arxiv.org/abs/2011.06006) [[code]](https://github.com/google-research/google-research/tree/master/nngp_nas) [[US Patent App. 17/377,142]]
+
+
+* **Exploring the Uncertainty Properties of Neural Networks’ Implicit Priors in the Infinite-Width Limit**  
+Ben Adlam\*, **Jaehoon Lee**\*, Lechao Xiao\*, Jeffrey Pennington and Jasper Snoek  
+[International Conference on Learning Representations (ICLR), 2021](https://openreview.net/forum?id=MjvduJCsE4) [[code / dataset]](https://github.com/google-research/google-research/tree/master/infinite_uncertainty)      
+[ICML 2020 Workshop on Uncertainty & Robustness in Deep Learning](http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-115.pdf)
+[[arXiv: 2010:07355]](https://arxiv.org/abs/2010.07355)  
+
 
 * **Fast Neural Kernel Embeddings for General Activations**   
 Insu Han, Amir Zandieh, **Jaehoon Lee**, Roman Novak, Lechao Xiao, Amin Karbasi. 
