@@ -18,7 +18,7 @@ San Francisco Bay Area
 
 **Curriculum Vitae**: [CV](https://drive.google.com/file/d/1qz_duj-900YzKf8Dkww_LIVC1PLm93LH/view?usp=sharing)
 
-I am a Member of Technical Staff at [Antrhopic](https://www.anthropic.com) working on research in machine learing and artifical intelligence. I have a background in theoretical high-energy physics. 
+I am a Member of Technical Staff at [Anthropic](https://www.anthropic.com) conducting research in the fields of machine learning and artificial intelligence. I also have a background in theoretical high-energy physics. 
 
 Previously, I spent amazing 7 years at Google doing research in machine learing. I was a Staff Research Scientist at [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind) working on Path to AGI team and Gemini team working on science of pretraining. I spent most of my Google years as part  of [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
 I was in second-year cohort of the [Brain / AI Residency](https://ai.google/research/join-us/ai-residency) program (2017). 
@@ -30,7 +30,7 @@ Before that, I completed my PhD in [Center for Theoretical Physics (CTP)](http:/
 
 ## News
 
-* [NEW!] June 2024: I joined [Antrhopic](https://www.anthropic.com)!
+* [NEW!] June 2024: I joined [Anthropic](https://www.anthropic.com)!
 
 * [NEW!] June 2024: Our paper [Explaining Neural Scaling Laws](https://www.pnas.org/doi/10.1073/pnas.2311878121) is (finally) published in PNAS! 
 
