@@ -20,8 +20,9 @@ San Francisco Bay Area
 
 I am a Member of Technical Staff at [Anthropic](https://www.anthropic.com) conducting research in the fields of machine learning and artificial intelligence. I also have a background in theoretical high-energy physics. 
 
-Previously, I spent amazing 7 years at Google doing research in machine learing. I was a Staff Research Scientist at [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind) working on Path to AGI team and Gemini team working on science of pretraining. I spent most of my Google years as part  of [Google Brain Team](https://research.google.com/teams/brain/) working on scientific understanding of deep neural networks. 
-I was in second-year cohort of the [Brain / AI Residency](https://ai.google/research/join-us/ai-residency) program (2017). 
+
+I spent an incredible 7 years at Google, focusing on machine learning research. Most recently, as a Staff Research Scientist at  [Google DeepMind](https://www.deepmind.com/blog/announcing-google-deepmind), I worked on the Path to AGI(PAGI) and Gemini teams, concentrating on the science of pretraining. The majority of my time at Google was spent with the [Google Brain Team](https://research.google.com/teams/brain/), exploring the scientific understanding of deep neural networks. My journey at Google began when I joined the second cohort of the[Brain / AI Residency](https://ai.google/research/join-us/ai-residency) program in 2017.
+
 
 Before joining Google, my main research focus was on theoretical high-energy physics. 
 I was a postdoctoral researcher in the [Department of Physics & Astronomy](http://www.phas.ubc.ca/) at [University of British Columbia (UBC)](http://www.ubc.ca/) in the String Theory Group. 
