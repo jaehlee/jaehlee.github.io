@@ -12,7 +12,7 @@ San Francisco Bay Area
 
 
 
-**E-Mail**: eejaeohoon at gmail dot com
+**E-Mail**: eejaehoon at gmail dot com
 
 [[LinkedIn]](https://www.linkedin.com/in/eejaehoon), [[Twitter]](https://twitter.com/hoonkp)
 
